@@ -211,9 +211,10 @@ hr {
 	margin-top: 20px;
 	transition: all 0.3s;
 }
+/*My Portfolio Button hover*/
 .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active {
-	color: #a94442;
-	background-color: #343b42;
+	color: #000000;
+	background-color: #ffffff;
 }
 
 .intro {
@@ -371,7 +372,7 @@ ol.type li a:hover {
 	text-align: center;
 	margin: 0 auto;
 	color: #a9444200;
-	background: #a9444200;
+	background: #000000a3;
 	padding: 30% 0 0 0;
 	height: 100%;
 	width: 100%;
@@ -381,7 +382,8 @@ ol.type li a:hover {
 .hover-bg .hover-text>h4 {
 	text-transform: uppercase;
 	opacity: 0;
-	color: #a94442;
+	color: #fff;
+	font-weight: 700;
 	-webkit-transform: translateY(100%);
 	transform: translateY(100%);
 	transition: all 0.3s;
