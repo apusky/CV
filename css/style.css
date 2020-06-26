@@ -10,7 +10,7 @@
 	width: 100%;
 	height: 100vh;
 	background: #000000;
-    -webkit-animation: 4s ease 0s normal backwards 1 fadeout;
+    -webkit-animation: 3.5s ease 0.5s normal backwards 1 fadeout;
 	animation: 3.5s ease 0.5s normal backwards 1 fadeout;	
 }
 
